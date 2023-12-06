@@ -4,10 +4,14 @@ Debuggers - "Let us follow the code line by line, inspect changes in variable as
 
 Reproduction case - "A clear description of how and when the problems appears"
 
-strace - "is a diagnostic, debugging and inctructional userspace utility for Linux"
+strace - "Is a diagnostic, debugging and inctructional userspace utility for Linux"
 
-System calls - "calls that the programms running on our computer make to the running kernel"
+System calls - "Calls that the programms running on our computer make to the running kernel"
 
+sysstat - "The sysstat package contains various utilities, common to many commercial Unixes, to monitor system performance and usage activity"
 
+Heisenbug - "In computer programming jargon, a heisenbug is a software bug that seems to disappear or alter its behavior when one attempts to study it"
+
+Zenity - "Zenity is free software and a cross-platform program that allows the execution of GTK dialog boxes in command-line and shell scripts"
 
 
