@@ -17,3 +17,6 @@ Zenity - "Zenity is free software and a cross-platform program that allows the e
 Binary search -  A search algorithm used to find a specific item in a sorted list or array by repeatedly dividing the s>
 
 Linear search: The process of searching each line of data until the desired data entry is located
+
+Profiler - A tool that measures the resources that our code is using, giving us a better understanding of what's going on
+
