@@ -1,0 +1,19 @@
+Main definitions that helps understand debugging and troubleshooting.
+
+Debuggers - "Let us follow the code line by line, inspect changes in variable assignments, interrupt the program when a specific condition is met, and more"
+
+Reproduction case - "A clear description of how and when the problems appears"
+
+strace - "Is a diagnostic, debugging and inctructional userspace utility for Linux"
+
+System calls - "Calls that the programms running on our computer make to the running kernel"
+
+sysstat - "The sysstat package contains various utilities, common to many commercial Unixes, to monitor system performance and usage activity"
+
+Heisenbug - "In computer programming jargon, a heisenbug is a software bug that seems to disappear or alter its behavior when one attempts to study it"
+
+Zenity - "Zenity is free software and a cross-platform program that allows the execution of GTK dialog boxes in command-line and shell scripts"
+
+Binary search -  A search algorithm used to find a specific item in a sorted list or array by repeatedly dividing the s>
+
+Linear search: The process of searching each line of data until the desired data entry is located
