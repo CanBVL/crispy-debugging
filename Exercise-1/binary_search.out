@@ -1,0 +1,50 @@
+# callgrind format
+version: 1
+creator: pprofile
+event: usphit :microseconds/hit
+events: hits microseconds usphit
+cmd: ./binary_search_list.py
+fl=./binary_search_list.py
+fn=<module>:1
+1 1 5 5
+3 1 7 7
+19 1 11 11
+cfl=./binary_search_list.py
+cfn=binary_search:3
+calls=1 3
+19 1 81 81
+20 1 9 9
+cfl=./binary_search_list.py
+cfn=binary_search:3
+calls=1 3
+20 1 95 95
+21 1 8 8
+cfl=./binary_search_list.py
+cfn=binary_search:3
+calls=1 3
+21 1 36 36
+22 1 19 19
+cfl=./binary_search_list.py
+cfn=binary_search:3
+calls=1 3
+22 1 41 41
+23 1 11 11
+cfl=./binary_search_list.py
+cfn=binary_search:3
+calls=1 3
+23 1 26 26
+fn=binary_search:3
+3 5 9 1
+4 5 11 2
+5 5 18 3
+6 5 11 2
+7 14 26 1
+8 14 22 1
+9 14 22 1
+10 5 8 1
+11 9 15 1
+12 4 61 15
+13 4 15 3
+14 9 16 1
+15 5 31 6
+16 5 11 2
