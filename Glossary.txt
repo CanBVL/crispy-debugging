@@ -18,5 +18,7 @@ Binary search -  A search algorithm used to find a specific item in a sorted lis
 
 Linear search: The process of searching each line of data until the desired data entry is located
 
-Profiler - A tool that measures the resources that our code is using, giving us a better understanding of what's going on
+Profiler - "A tool that measures the resources that our code is using, giving us a better understanding of what's going on"
+
+pprofile3 - "Line-granularity, thread-aware deterministic and statistic pure-python profiler. Line granularity allows locating precisely where time is spent in code."
 
